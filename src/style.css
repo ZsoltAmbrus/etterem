@@ -1,0 +1,12 @@
+.list-group-item h5 {
+    text-align: center;
+    margin-bottom: 0; /* Opcionális: eltávolítja a h5 elem alatti alapértelmezett margót */
+    
+}
+
+.kozepreigazit{
+    padding-left: 0%;
+    padding-right: 0%;
+    font-family: apple;
+}
+
